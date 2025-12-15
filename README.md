@@ -47,4 +47,4 @@ Head of Computer Science (CS27)
 Kasetsart University, Sriracha Campus
 
 ---
-*© 2024 Business Analysis Portfolio Project*
+*© 2025 Business Analysis Portfolio Project*
